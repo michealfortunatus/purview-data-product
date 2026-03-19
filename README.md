@@ -328,18 +328,9 @@ data_products_output.json
 
 ---
 
-# 11. Possible Extensions
 
-* Export to CSV
-* Store in database
-* Build API (FastAPI)
-* Schedule daily jobs
-* Add filters (domainId)
-* Build dashboards
 
----
-
-# 12. Summary
+# 11. Summary
 
 This project turns Microsoft Purview into a **programmable data platform**.
 
@@ -351,16 +342,3 @@ Instead of manual checks, you can now:
 * Integrate with enterprise tools
 
 ---
-
-## 🚀 Next Steps
-
-Enhance this project with:
-
-* Data quality scoring
-* Alerting system
-* Data lineage tracking
-* Domain-specific dashboards
-
----
-
-**You now have a production-ready foundation for data governance automation.**
